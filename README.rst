@@ -10,7 +10,7 @@ Welcome to kepler-science-tutorials's documentation!
 Documentation
 -------------
 
-You can read the documentation here_!
+You can read the documentation here_
 
 .. _here: https://keplergo.github.io/kepler-science-tutorials/
 
