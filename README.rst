@@ -10,9 +10,9 @@ Welcome to kepler-science-tutorials's documentation!
 Documentation
 -------------
 
-You can read the documentation here_
+You can read the documentation_ online!
 
-.. _here: https://keplergo.github.io/kepler-science-tutorials/
+.. _documentation: https://keplergo.github.io/kepler-science-tutorials/
 
 Dependencies
 ------------
