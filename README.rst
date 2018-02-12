@@ -7,6 +7,16 @@ Welcome to kepler-science-tutorials's documentation!
 .. _exoplanets: link
 .. _supernovae: link
 
+Documentation
+-------------
+
+You can read the documentation here_!
+
+.. _here: https://keplergo.github.io/kepler-science-tutorials/
+
+Dependencies
+------------
+
 These tutorials require you to have Python installed to run. If you do not have a version of Python installed we recommend you use Anaconda, which will also install most of the package dependencies for these tutorials. You can find information on installing python with Anaconda on your machine here_.
 
 .. _here: https://conda.io/docs/user-guide/install/index.html
