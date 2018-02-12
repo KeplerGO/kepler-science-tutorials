@@ -1,6 +1,6 @@
-====================================================
-Welcome to kepler-science-tutorials's documentation!
-====================================================
+=====================================
+Welcome to kepler-science-tutorials's
+=====================================
 
 **kepler-science-tutorials** are a set of easy to follow tutorials for doing science with Kepler and K2 data. They are in the form of jupyter notebooks, which can be exported as pdfs and slides for you to use offline and with your team. They are split into broad categories for specific areas such as exoplanets_ and supernovae_.
 
