@@ -36,6 +36,17 @@ You can install all these dependencies using pip_ by typing the following comman
 Some of these notebooks are direct copies of notebooks from **lightkurve**, **PyKE** and other topics. (Such as basic tutorials on opening files and querying MAST.)
 
 
+*********
+Tutorials
+*********
+
+.. toctree::
+    :maxdepth: 2
+
+    tutorials/index
+
+
+
 **************
 Acknowledgment
 **************
